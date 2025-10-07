@@ -136,8 +136,8 @@ Please follow Swift style conventions and add clear commit messages.
 
 ## 🐙 License
 
-Released under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+This project is released under the **MIT License**.  
+See the [LICENSE](LICENSE) file for full details.
 
 ---
 
